@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About This Site"
+title: "Setting Up This Site"
 date: 2017-09-18
 ---
 
