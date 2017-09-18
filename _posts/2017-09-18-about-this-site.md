@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Blog Post"
+title: "About This Site"
 date: 2017-09-18
 ---
 
