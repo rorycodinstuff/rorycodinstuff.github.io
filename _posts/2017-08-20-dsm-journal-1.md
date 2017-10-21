@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DSM Journal 1"
-date: 2017-09-18
+date: 2017-08-20
 ---
 
 I plagiarized my homework this week. I don't mean just poorly paraphrasing Foucalt in an essay either; I copied and pasted text from the internet. This is something I would normally feel ashamed of, but I am coming to learn that gaining a semblance of code literacy involves activities that easily meet the definition of cheating in other classes.
