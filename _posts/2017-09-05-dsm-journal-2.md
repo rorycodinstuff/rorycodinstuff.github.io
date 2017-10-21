@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DSM Journal 1"
-date: 2017-09-18
+title: "DSM Journal 2"
+date: 2017-09-05
 ---
 
 This week, following my completion of chapter 5 of my Python textbook, I started exploring ways I could host my DSM journal reflections online. The variety of languages, frameworks and hosting services available to me are overwhelming. Kotamraju (2002, p. 18) stated 'from the moment of its emergence in the mid-1990s, web design skill immediately engaged in the process of reinvention', an assertion that still holds true fifteen years later as sites like A List Apart and Smashing Magazine report weekly on the latest web trends.
