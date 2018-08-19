@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 img {
@@ -11,4 +12,9 @@ img {
 
 a {
   text-decoration: none;
+}
+
+
+h1 {
+  font-family: 'Graduate', cursive;
 }
